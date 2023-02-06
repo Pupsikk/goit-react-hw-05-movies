@@ -1,0 +1,36 @@
+.details {
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  box-shadow: 2px 3px 14px 2px rgb(0 0 0 / 41%);
+}
+.movieDetails {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.linkButton {
+  margin: 20px;
+  background-color: rgba(0, 51, 128, 0.638);
+  border: none;
+  border-radius: 3px;
+  color: #e8d889;
+  width: 120px;
+  height: 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+.linkButton:hover {
+  background-color: #e8d889;
+  color: rgba(0, 51, 128, 0.405);
+  box-shadow: 2px 3px 14px 2px rgb(0 0 0 / 41%);
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}

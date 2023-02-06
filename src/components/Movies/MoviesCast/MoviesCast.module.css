@@ -1,0 +1,9 @@
+.cast {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  font-family: monospace;
+  list-style: none;
+}
